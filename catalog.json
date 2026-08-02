@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-02T02:48:18Z",
+  "collections": [
+    {
+      "id": "acfun-emoji",
+      "display_name": "AcFun-Emoji",
+      "asset_count": 349,
+      "total_bytes": 8822928,
+      "source_url": "https://github.com/ikutarian/AcFun-Emoji"
+    },
+    {
+      "id": "chinese-bqb",
+      "display_name": "ChineseBQB",
+      "asset_count": 5840,
+      "total_bytes": 222890560,
+      "source_url": "https://github.com/zhaoolee/ChineseBQB"
+    },
+    {
+      "id": "doro",
+      "display_name": "doro",
+      "asset_count": 3276,
+      "total_bytes": 425010349,
+      "source_url": "https://github.com/1143520/doro"
+    },
+    {
+      "id": "nailong",
+      "display_name": "nailong-meme-generator",
+      "asset_count": 80,
+      "total_bytes": 178418,
+      "source_url": "https://github.com/lewischn/nailong-meme-generator"
+    },
+    {
+      "id": "phoebe-hub",
+      "display_name": "Phoebe-Hub",
+      "asset_count": 755,
+      "total_bytes": 88194759,
+      "source_url": "https://github.com/Kato-Shoko705/Phoebe-Hub"
+    },
+    {
+      "id": "opossum-work-memes",
+      "display_name": "Opossum Work Memes",
+      "asset_count": 1096,
+      "total_bytes": 2544442
+    }
+  ]
+}
